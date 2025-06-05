@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Akhil
 
-🎓 **Master’s in Computer Science** from Stevens Institute of Technology  
-💻 **Experience in software engineering, backend development, and AI/ML research  
-🚀 Currently exploring **AI safety**, **LLM inference optimization**, and **open-source research** with communities
+**Master’s in Computer Science** from Stevens Institute of Technology  
+**Experience in software engineering, backend development, and AI/ML research  
+Currently exploring **AI safety**, **LLM inference optimization**, and **open-source research** with communities
 
 ---
 
-## 🧠 Current Focus Areas
+##  Current Focus Areas
 
 - **Efficient Inference for Large Language Models**:  
   Exploring speculative decoding vs. Mixture of Experts (MoE) to optimize generation latency and quality.
@@ -14,13 +14,11 @@
 - **Open Research & Community Collaboration**:  
   Collaborating on open NLP projects focused on ethical alignment and harmful prompt detection.
 
-- **AI for Healthcare**:  
-  Built an AI assistant using a Gemma-2B model with LangChain-based RAG and OpenVINO optimizations.
 
 ---
 
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**: Python, Java, SQL, JavaScript, Go  
 **Frameworks/Tools**: Spring Boot, FastAPI, Hugging Face, LangChain  
@@ -31,9 +29,9 @@
 
 ---
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
-- 🧠 Always open to research collaborations, AI safety discussions, and open-source contributions
+-  Always open to research collaborations, AI safety discussions, and open-source contributions
 
 ---
 
