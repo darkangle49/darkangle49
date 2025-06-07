@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akhil
 
-** Master’s in Computer Science** from Stevens Institute of Technology  
-** Experience in software engineering, backend development, and AI/ML research  
+Master’s in Computer Science** from Stevens Institute of Technology  
+Experience in software engineering, backend development, and AI/ML research  
 Currently exploring **AI safety**, **LLM inference optimization**, and **open-source research** with communities
 
 ---
